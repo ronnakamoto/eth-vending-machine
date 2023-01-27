@@ -3,6 +3,8 @@
 This is a dApp project that I use for training people new to Ethereum and Solidity.
 A newer and better version will be available in my new book for Ethereum Developers
 
+![vending machine dapp](https://i.imgur.com/CMddAlb.png)
+
 # Tools
 - NextJS
 - Solidity
